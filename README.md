@@ -1,75 +1,54 @@
-![Banner](./banner.png)
+![Banner](https://github.com/LucVinicius-DEV/funcoes-em-java/blob/main/banner.png)
 
-## ✨ Funções em Java
+# 🔧 Funções em Java
 
-Repositório com exercícios práticos resolvidos utilizando funções em Java, ideal para iniciantes que desejam entender na prática como modularizar o código e reutilizar blocos de lógica com eficiência.
-
-
----
-
-## 📚 Exercícios resolvidos
-
-1. Área do Círculo
-Lê o valor do raio e retorna a área utilizando função.
-Arquivo: `AreaCirculo.java`
-
-
-2. Número Primo
-Verifica se um número inteiro é primo com retorno booleano.
-Arquivo: `NumeroPrimo.java`
-
-
-3. Conversor de Temperatura
-Permite ao usuário converter temperaturas entre Celsius e Fahrenheit.
-Arquivo: `ConversorTemperatura.java`
-
-
-
+Repositório com exercícios e exemplos práticos para o estudo e domínio das funções em Java, abordando desde a criação até o uso de métodos com e sem retorno, além de passagem de parâmetros.
 
 ---
 
-## 🧠 Conceitos aplicados
+## 📚 Projeto disponível
 
-Declaração de funções com public static
-
-Retorno de valores (int, double, boolean)
-
-Boas práticas de nomeação
-
-Modularização de lógica
-
-Uso da classe Scanner para entrada de dados
-
-
+- [FUNÇÕES EM JAVA](./src) — Exercícios para consolidar a criação e chamada de métodos, manipulação de parâmetros e retorno de valores.
 
 ---
 
-## ▶️ Como executar os códigos
+## 🛠️ Tecnologias Utilizadas
 
-1. Abra o terminal na pasta do projeto.
+- Java
+- IntelliJ IDEA
+- Git & GitHub
 
+---
 
-2. Compile o arquivo desejado:
+# ⚙️ Funções em Java
 
-`javac NomeDoArquivo.java`
+Projeto focado no aprendizado de métodos (funções) em Java, essenciais para modularização e organização do código.
 
+## ✨ Funcionalidades
 
-3. Execute o programa:
+- Definição de métodos com e sem retorno.
+- Passagem de parâmetros para métodos.
+- Chamadas e testes de funções diversas.
+- Estruturação de código mais limpa e reutilizável.
 
-`java Main`
+---
 
+## ▶️ Como executar
 
-
+1. Clone este repositório ou abra no seu ambiente Java.
+2. Acesse a pasta `/src` e abra o arquivo `Main.java`.
+3. Execute o programa.
+4. Observe e teste os diferentes métodos implementados.
 
 ---
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Lucas Vinícius como parte da sua jornada de aprendizado em Java, com a mentoria da Luna.
+Desenvolvido por Lucas Vinícius com o apoio da Luna, em busca da excelência na programação em Java.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Vinícius-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-vin%C3%ADcius-05b41a35b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-LucVinicius--DEV-black?style=flat&logo=github)](https://github.com/LucVinicius-DEV)
 
 ---
 
-## ⭐ Gostou do projeto?
-
-Deixe uma estrela no repositório e acompanhe o progresso no LinkedIn e GitHub!
+Se você gostou deste projeto, deixe um ⭐ para apoiar o repositório e acompanhe o progresso pelo [LinkedIn](https://www.linkedin.com/in/lucas-vin%C3%ADcius-05b41a35b/) e pelo [GitHub](https://github.com/LucVinicius-DEV)!
